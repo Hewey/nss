@@ -1,0 +1,83 @@
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python is already the newest version.
+python-xapian is already the newest version.
+python-xapian set to manually installed.
+libpython2.7-minimal is already the newest version.
+libpython2.7-stdlib is already the newest version.
+python-apt is already the newest version.
+python-apt set to manually installed.
+python2.7 is already the newest version.
+python2.7-minimal is already the newest version.
+Some packages could not be installed. This may mean that you have
+requested an impossible situation or if you are using the unstable
+distribution that some required packages have not yet been created
+or been moved out of Incoming.
+The following information may help to resolve the situation:
+
+The following packages have unmet dependencies:
+ python-carquinyol-0.88 : Conflicts: python-carquinyol
+ python-carquinyol-0.96 : Conflicts: python-carquinyol
+ python-carquinyol-0.98 : Conflicts: python-carquinyol
+ python-irc : Conflicts: python-irclib but 0.4.8-1.1 is to be installed
+ python-jarabe-0.96 : Conflicts: python-jarabe
+ python-jarabe-0.98 : Conflicts: python-jarabe
+ python-libpcap : Conflicts: python-pypcap but 1.1.2+debian-2.2 is to be instal$
+ python-pypcap : Conflicts: python-libpcap but 0.6.4-1 is to be installed
+ python-quixote1 : Conflicts: python-quixote but 2.7~b2-1 is to be installed
+ python-silo : Depends: libsiloh5-0 (= 4.8-13build1) but it is not going to be $
+ python-carquinyol-0.96 : Conflicts: python-carquinyol
+ python-carquinyol-0.98 : Conflicts: python-carquinyol
+ python-irc : Conflicts: python-irclib but 0.4.8-1.1 is to be installed
+ python-jarabe-0.96 : Conflicts: python-jarabe
+ python-jarabe-0.98 : Conflicts: python-jarabe
+ python-libpcap : Conflicts: python-pypcap but 1.1.2+debian-2.2 is to be instal$
+ python-pypcap : Conflicts: python-libpcap but 0.6.4-1 is to be installed
+ python-quixote1 : Conflicts: python-quixote but 2.7~b2-1 is to be installed
+ python-silo : Depends: libsiloh5-0 (= 4.8-13build1) but it is not going to be $
+ python-sugar-0.88 : Recommends: sugar-0.88 but it is not installable
+                     Conflicts: python-sugar
+ python-sugar-0.96 : Recommends: sugar-0.96 but it is not installable
+                     Conflicts: python-sugar
+ python-sugar-0.98 : Recommends: sugar-0.98 but it is not installable
+                     Conflicts: python-sugar
+ python-sugar-toolkit-0.88 : Depends: python-cjson but it is not going to be in$
+                             Recommends: sugar-0.88 but it is not installable
+                             Recommends: python-jarabe-0.88 but it is not insta$
+                             Conflicts: python-sugar-toolkit
+                     Conflicts: python-sugar
+ python-sugar-0.96 : Recommends: sugar-0.96 but it is not installable
+                     Conflicts: python-sugar
+ python-sugar-0.98 : Recommends: sugar-0.98 but it is not installable
+                     Conflicts: python-sugar
+ python-sugar-toolkit-0.88 : Depends: python-cjson but it is not going to be in$
+                             Recommends: sugar-0.88 but it is not installable
+                             Recommends: python-jarabe-0.88 but it is not insta$
+                             Conflicts: python-sugar-toolkit
+ python-sugar-toolkit-0.96 : Depends: python-cjson but it is not going to be in$
+                             Recommends: sugar-0.96 but it is not installable
+                             Recommends: sugar-presence-service-0.96 but it is $
+                             Conflicts: python-sugar-toolkit
+ python-sugar-toolkit-0.98 : Depends: python-cjson but it is not going to be in$
+                             Recommends: sugar-0.98 but it is not installable
+                             Recommends: sugar-presence-service-0.98 but it is $
+                             Conflicts: python-sugar-toolkit
+ python-xattr : Conflicts: python-pyxattr
+Reading package lists...
+                            Recommends: sugar-0.96 but it is not installable
+                             Recommends: sugar-presence-service-0.96 but it is $
+                             Conflicts: python-sugar-toolkit
+ python-sugar-toolkit-0.98 : Depends: python-cjson but it is not going to be in$
+                             Recommends: sugar-0.98 but it is not installable
+                             Recommends: sugar-presence-service-0.98 but it is $
+                             Conflicts: python-sugar-toolkit
+ python-xattr : Conflicts: python-pyxattr
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python2.7 is already the newest version.
+0 upgraded, 0 newly installed, 0 to remove and 4 not upgraded.
+
+
